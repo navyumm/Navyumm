@@ -10,6 +10,11 @@
 ### Hi there 👋
 My name is Nayyum, and I am a MERN stack web developer with a passion for exploring new technologies. Currently, I am employed as a full stack developer at Codex Solutions. 💻 Excited about staying updated with emerging trends, I strive to enhance my skills and contribute effectively to projects.
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+</br>
+
 ### About Me
 - 🔭 I’m currently working on building full-stack web applications.
 - programming languages I'm comfortable with are JavaScript, TypeScript, and Python.
@@ -34,14 +39,14 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js) <br/>
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6) <br/>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
