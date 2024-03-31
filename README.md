@@ -52,6 +52,7 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
 
  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=navyumm&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="navyumm" width="100%" /> </p>
  
@@ -67,7 +68,7 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ###
 
-<img src="https://raw.githubusercontent.com/Navyumm/Navyumm/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/output/snake.svg" alt="Snake animation" />
 
 ###
 
