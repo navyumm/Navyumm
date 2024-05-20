@@ -61,10 +61,7 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://github.com/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="14%" alt="pikachu-hi">
-<img align="left" src="https://github.com/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="18%" alt="pikachu-hi">
-<img align="left" src="https://github.com/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="14%" alt="pikachu-hi">
-<img align="left" src="https://github.com/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="18%" alt="pikachu-hi">
+<img align="left" src="https://github.com/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyumm&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
