@@ -72,6 +72,4 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ###
 
-###
-
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
