@@ -68,7 +68,9 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ###
 
-<img src="https://raw.githubusercontent.com/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Navyumm/Navyumm/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
