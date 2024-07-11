@@ -66,9 +66,13 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyumm&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br>
+
 ###
 
-<img src="https://raw.githubusercontent.com/Navyumm/Navyumm/output/snake.svg" alt="Snake animation" />
+<img src="./assets/sanke.svg" alt="Snake animation" />
 
 ###
 
