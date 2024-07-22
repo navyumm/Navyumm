@@ -72,8 +72,9 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ###
 <!-- SNAKE ANIMATION -->
+<!--
 <img src="https://raw.githubusercontent.com/Navyumm/Navyumm/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
