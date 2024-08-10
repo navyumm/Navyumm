@@ -90,8 +90,8 @@ CAT
 -->
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=navyumm&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyumm&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=navyumm&show_icons=true&theme=vision-friendly-dark">
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navyumm&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
