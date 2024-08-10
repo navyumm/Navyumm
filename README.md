@@ -42,16 +42,16 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ### Frameworks & Libraries:
 
-| ReactJS | React Native | NextJS | NodeJS | Express | Redux | GraphQL | Jest | GSAP |
-|---------|--------------|--------|--------|---------|-------|---------|------|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="55" height="55"/> | <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" title="GSAP" alt="GSAP" width="55" height="55"/> |
+| ReactJS | ReactNative | NextJS | NodeJS | Express | Redux | GraphQL | Jest | GSAP |
+|---------|-------------|--------|--------|---------|-------|---------|------|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="58" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="55" height="55"/> | <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" title="GSAP" alt="GSAP" width="55" height="55"/> |
 
 
 
 ### Databases & ORM’s:
 
-| MongoDB | Mongoose | PostgreSQL | Supabase | Firebase | Appwrite |
-|---------|----------|------------|----------|----------|----------|
+| MongoDB | Mongoose | Postgres | Supabase | Firebase | Appwrite |
+|---------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="Appwrite" alt="Appwrite" width="55" height="55"/> |
 
 
@@ -66,15 +66,14 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ### CSS and UI Libraries:
 
-| Tailwind CSS | Shadcn/ui | Aceternity/ui | Chakra/ui | BootStrap/ui |
-|--------------|-----------|---------------|-----------|--------------|
+| Tailwind | Shadcn | Aceternity | Chakra | BootStrap |
+|----------|--------|------------|--------|-----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" title="Shadcn/ui" alt="Shadcn/ui" width="55" height="55"/> | <img src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75" title="Aceternity/ui" alt="Aceternity/ui" width="55" height="55"/> | <img src="https://dgdeepon.github.io/static/media/chakra-ui_title2-400x400-removebg-preview.fc0f93596462cd01a157.png" title="Chakra/ui" alt="Chakra/ui" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap/ui" alt="BootStrap/ui" width="55" height="55"/> |
 
 </div>
 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-</br>
+
+---
 
 
  <p align="center">
@@ -82,10 +81,7 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 </p>
 
 
- 
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
-</br>
+ ---
 
 
 <!-- 
@@ -105,10 +101,15 @@ CAT
 </div>
 
 
+---
+
+
 <!-- SNAKE ANIMATION -->
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+
+---
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
