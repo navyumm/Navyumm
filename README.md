@@ -35,15 +35,15 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 <div>
 
 ### Languages:
-| JavaScript | TypeScript | Python3 | C++ |
-|------------|------------|---------|-----|
+| JS | TS | Python3 | C++ |
+|----|----|---------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |
 
 
 ### Frameworks & Libraries:
 
-| ReactJS | ReactNative | NextJS | NodeJS | Express | Redux | GraphQL | Jest | GSAP |
-|---------|-------------|--------|--------|---------|-------|---------|------|------|
+| ReactJS | RN | NextJS | NodeJS | Express | Redux | GraphQL | Jest | GSAP |
+|---------|----|--------|--------|---------|-------|---------|------|------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="58" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="55" height="55"/> | <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" title="GSAP" alt="GSAP" width="55" height="55"/> |
 
 
