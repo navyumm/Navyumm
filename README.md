@@ -31,24 +31,47 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 <img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 </br>
 
-### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js) <br/>
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=flat-square&logo=appwrite)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6) <br/>
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+## Languages and Tools 
+<div>
+
+### Languages:
+| JavaScript | TypeScript | Python3 | C++ |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/>| 
+
+
+
+### Frameworks & Libraries:
+
+| ReactJS | React Native | NextJS | NodeJS | Express | Redux | GraphQL | Jest | GSAP |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS"  alt="ReactJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native"  alt="React Native" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="55" height="55"/>|<img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" title="GSAP" alt="GSAP" width="55" height="55"/>|
+
+
+
+### Databases & ORM’s:
+
+| MongoDB | Mongoose | PostgreSQL | Supabase | Firebase | Appwrite |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="Appwrite" alt="Appwrite" width="55" height="55"/>|
+
+
+
+### Tools and Platforms:
+
+| Git | Docker | VSCode | GitHub | Postman | Figma |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>|
+
+
+
+### CSS and UI Libraries:
+
+| Tailwind CSS | Shadcn/ui | Aceternity/ui | Chakra/ui | BootStrap/ui |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>|<img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" title="Shadcn/ui" alt="Shadcn/ui" width="55" height="55"/>|<img src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75" title="Aceternity/ui" alt="Aceternity/ui" width="55" height="55"/>|<img src="https://dgdeepon.github.io/static/media/chakra-ui_title2-400x400-removebg-preview.fc0f93596462cd01a157.png" title="Chakra/ui" alt="Chakra/ui" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap/ui" alt="BootStrap/ui" width="55" height="55"/>|
+
+</div>
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
@@ -72,9 +95,9 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 
 ###
 <!-- SNAKE ANIMATION -->
-<!--
-<img src="https://raw.githubusercontent.com/Navyumm/Navyumm/output/snake.svg" alt="Snake animation" />
--->
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 ###
 
 #### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
