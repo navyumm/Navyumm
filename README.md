@@ -1,4 +1,4 @@
-<img src="./Navyum%20(Cover%20Image).png">
+<img src="./assets/Navyum (Cover Image).png">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NavyumX)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/navyum/)
@@ -106,15 +106,9 @@ CAT
 
 <!-- SNAKE ANIMATION -->
 
-<img src="https://raw.githubusercontent.com/Navyumm/Navyumm/output/snake.svg" alt="Snake animation" />
-
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
--->
+<p align="center">
+ <img width="1000" src="./assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
