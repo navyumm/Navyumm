@@ -24,7 +24,7 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
 - 👯 I’m looking to collaborate on projects that involve innovative web technologies.
 - 💬 Ask me about MERN stack, Python, or anything related to web development!
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@navyum) and [Dev.to](https://dev.to/navyumx).
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@navyum).
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/navyum/) or [Twitter](https://twitter.com/navyumx).
   
 <!--  DIVIDER  -->
