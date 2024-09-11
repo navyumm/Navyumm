@@ -29,6 +29,7 @@ My name is Nayyum, and I am a MERN stack web developer with a passion for explor
   
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 </br>
 
 ## Languages and Tools 
